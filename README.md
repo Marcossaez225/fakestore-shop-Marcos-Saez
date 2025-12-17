@@ -127,7 +127,7 @@ npm
 
 Pasos
 # Clonar el repositorio
-git clone https://github.com/USUARIO/fakestore-shop.git
+git clone https://github.com/Marcossaez225/fakestore-shop-Marcos-Saez.git
 
 # Entrar al proyecto
 cd fakestore-shop
